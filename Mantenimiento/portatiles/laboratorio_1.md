@@ -62,18 +62,18 @@ analizar el disco en busca de virus
 |Parámetro||Valor|
 |--|:--:|--:|
 |Sistema Operativo|-->|Microsoft Windows 10 Pro|
-|Arquitectura de sistema|-->|cuantos bits|
+|Arquitectura de sistema|-->|64 bits|
 |version de producto|-->|profesional home|
 |Version del sistema|-->|22H2|
-|Grupo de trabajo|-->|wordgrouo|
+|Grupo de trabajo|-->|WORKGROUP|
 |Nombre del equipo|-->|DESKTOP-IEKI370|
 
 
 ## 4. [Diagnostico Diferencial](#) ✔
 |Parámetro|Diagnostico|
 |--|--:|
-|Diagnostico del sistema| como|
-|Diagnostico para discos| recom|
+|Diagnostico del sistema| OK |
+|Diagnostico para discos| BUENO|
 |Diagnostico de memorias| recom|
 |Diagnostico fisico| reco|
 
