@@ -51,7 +51,7 @@ RTA:(Master Boot Record)
 |Tamaño de la memoria RAM|-->|4096MB|
 |Sistema Operativo|-->|WINDOWS 10 PRO|
 |Tipo de WIFI|-->|Red|
-|Voltaje DC|-->|2000|
+|Voltaje DC|-->|xxxx|
 
 ## 4. [Configurar básica de CPE TP-LINK](#) ✔
 1. Conecte los equipos a la red eléctrica.
