@@ -24,12 +24,10 @@ RTA:Porque aremos nuestra configurcion de la manera que mas nos guste y no se no
 RTA:que solo nos permite hacer dos particiones</li> 
 <li>¿Que significa GPT?.
 RTA:Nos permite sacra varias partiones </li>
-<li>¿Que ventajas tiene usar la instalacion del sistema por medio de UEFI?.</li>
-RTA:</li>
-<li>¿Que ventajas tiene instalar sin UEFI?.</li>
-<li>¿Que es mas recomendable?</li>
+<li>¿Que ventajas tiene usar la instalacion del sistema por medio de UEFI?.
+</li> RTA: que se puede abministrar el sistema ala manera que se nos facilite trabajar y es mas rapido</li>
 
-</ol>
+
 
 
 ### 2. [Caracterizar del Pc de Practica](#) ✔
@@ -42,8 +40,9 @@ RTA:</li>
 |Sistema Operativo|-->|WINDOWS 10 PRO|
 |Tipo de WIFI|-->|Red|
 |Voltaje DC|-->|xxxxxx|
-
-## 4. [Configurar básica de PC](#) ✔
+ 
+ https://i.postimg.cc/1570JdXJ/IMG20240224091840-1.jpg
+## 3. [Configurar básica de PC](#) ✔
 1. Conecte los equipos a la red eléctrica.
 2. [Reiniciar][4_1] el dispositivo para ingresar a la BIOS.
 3. Conectar una usb que contenga el sistema a instalar.
@@ -58,7 +57,9 @@ RTA:</li>
 12. instalacion de licencias.
 
 
- ## 5. [Caracterizas del sistema final](#) ✔
+https://i.postimg.cc/d3zR6ktw/IMG20240302094123-1.jpg
+
+ ## 4. [Caracterizas del sistema final](#) ✔
 
 |Parámetro||Valor|
 |--|:--:|--:|

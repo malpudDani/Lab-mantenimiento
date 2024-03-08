@@ -53,19 +53,7 @@ RTA:(Master Boot Record)
 |Tipo de WIFI|-->|Red|
 |Voltaje DC|-->|xxxx|
 
-## 4. [Configurar básica de CPE TP-LINK](#) ✔
-1. Conecte los equipos a la red eléctrica.
-2. [Reiniciar][4_1] el dispositivo para ingresar a la BIOS.
-3. Conectar una usb que contenga el sistema a instalar.
-4. [Acceder][4_2] a la bios del dispositivo mediante las teclas recomendadas.
-5. [Escoger][4_3] el medio de Booteo.
-6. Configurar el sistema para la instalacion del sistema.
-7. Particionar El disco duro.
-8. Configurar las opciones de configuracion inicial.
-9. Configurar el usuario de sesion.
-10. Verificacion de sistema.
-11. Elimincaion de complemento basura.
-12. instalacion de licencias.
+
 
 ## 5. [Caracterizas del sistema final](#) ✔
 
