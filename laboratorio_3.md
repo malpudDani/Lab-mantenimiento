@@ -1,7 +1,4 @@
-
-
-# Practica de laboratorio 02
-
+# Mantenimiento Correctivo en Hardware 
 
 
 ### Objetivo General
@@ -14,46 +11,39 @@ Proporcionar el conocimiento y generar las habilidades necesarias realizar un bu
 
 ---
 
+
+
 ## 1. [Preguntas reflexivas de ambientación](#) ✔
 
 <ol type="a">
 
 <li>¿Por que es mejor Instalar el sistema desde cero que montarlo en otro ya existente?</li>
-RTA:es mejor instarlo desde el principo ya que asi vas entendiendo que sistema se esta instalando y haces muchos cambios </li>
-<li>¿Que significa MBR?.
-
-RTA:(Master Boot Record)
- registro de arranque maestro 
- </li>se encarga de identificar, donde está la partición activa y, posteriormente de ejecutar esa acción</li>
-
+RTA:Porque aremos nuestra configurcion de la manera que mas nos guste y no se nos compliquen las cosas ya que sria como si tuvieramos un nuevo computador en cambio si lo hacemos si lo montamos en uno existennte no cambiara nada en nuestro dispositivo y para trabajar seria mas dificil
+  </li>
+<li>¿Que significa MBR?.</li>
+RTA:que solo nos permite hacer dos particiones</li> 
 <li>¿Que significa GPT?.
-
- 
- RTA:Sistema operativo que actúa directamente, tiene la finalidad de proporcionar compatibilidad con versiones anteriores para las utilidades de administración de discos
-
+RTA:Nos permite sacra varias partiones </li>
 <li>¿Que ventajas tiene usar la instalacion del sistema por medio de UEFI?.</li>
-
-</li>RTA:  programa que se ejecuta en el arranque de una computadora y gestiona la configuración básica y avanzada de la misma.</li>
-
+RTA:</li>
 <li>¿Que ventajas tiene instalar sin UEFI?.</li>
-
 <li>¿Que es mas recomendable?</li>
 
 </ol>
 
 
-## 3. [Caracterizar del Pc de Practica](#) ✔
+### 2. [Caracterizar del Pc de Practica](#) ✔
 |Parámetro||Valor|
 |--|:--:|--:|
-|Marca|-->| H61H2-MV|
-|Referencia|-->|000000|
+|Marca|-->|LG|
+|Referencia|-->||
 |Velocidad de la CPU|-->|3.00 GHz|
 |Tamaño de la memoria RAM|-->|4096MB|
 |Sistema Operativo|-->|WINDOWS 10 PRO|
 |Tipo de WIFI|-->|Red|
-|Voltaje DC|-->|2000|
+|Voltaje DC|-->|xxxxxx|
 
-## 4. [Configurar básica de CPE TP-LINK](#) ✔
+## 4. [Configurar básica de PC](#) ✔
 1. Conecte los equipos a la red eléctrica.
 2. [Reiniciar][4_1] el dispositivo para ingresar a la BIOS.
 3. Conectar una usb que contenga el sistema a instalar.
@@ -67,7 +57,8 @@ RTA:(Master Boot Record)
 11. Elimincaion de complemento basura.
 12. instalacion de licencias.
 
-## 5. [Caracterizas del sistema final](#) ✔
+
+ ## 5. [Caracterizas del sistema final](#) ✔
 
 |Parámetro||Valor|
 |--|:--:|--:|
@@ -79,4 +70,7 @@ RTA:(Master Boot Record)
 |Codigo de Licencia|-->|DESKTOP-IEK370|
 
 
+
+
+https://postimg.cc/3yQ6FTY8
 

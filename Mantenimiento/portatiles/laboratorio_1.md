@@ -45,7 +45,7 @@ analizar el disco en busca de virus
 ## 2. [Caracterización del Pc ](#) ✔
 |Parámetro||Valor|
 |--|:--:|--:|
-|Número Discos Físicos|-2->||
+|Número Discos Físicos|-->|2|
 |Tamaño de Discos|-->|50 GB|
 |Horas de uso|-->|6350|
 |Memoria fisica disponible|-->| 681 MB|  
@@ -74,7 +74,7 @@ analizar el disco en busca de virus
 |--|--:|
 |Diagnostico del sistema| OK |
 |Diagnostico para discos| BUENO|
-|Diagnostico de memorias| recom|
-|Diagnostico fisico| reco|
+|Diagnostico de memorias| Excelente|
+|Diagnostico fisico| BUENO|
 
 
